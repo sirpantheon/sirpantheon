@@ -1,5 +1,5 @@
 # Olá eu sou Johnatan S Paixao - SirPantheon
-## Front-End developer
+## Front-End developer - TypeScript, JavaScript, React, NextJs, Sass, Tailwind CSS, Bootstrap
 
   - 🔭 Hoje em dia eu trabalho com Font-end
   - 🌱 Especialidade em Frameworks como React e NextJs
