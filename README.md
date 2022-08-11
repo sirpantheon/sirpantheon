@@ -3,7 +3,7 @@
 
   - 🔭 Hoje em dia eu trabalho com Font-end
   - 🌱 Especialidade em Frameworks como React e NextJs
-  - 💬 Contate me: johnatan.sousa@gmail.com || 💬 (https://www.linkedin.com/in/johnatan-sousa-silva-paixao-87ab81123/)
+  - 💬 Contate me: johnatan.sousa@gmail.com || 💬 [Meu Linkedin](https://www.linkedin.com/in/johnatan-sousa-silva-paixao-87ab81123/)
  
   
   <br />  
