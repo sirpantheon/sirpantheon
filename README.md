@@ -1,4 +1,5 @@
-## Olá eu sou Johnatan S Paixao - SirPantheon
+# Olá eu sou Johnatan S Paixao - SirPantheon
+## Front-End developer
 
   - 🔭 Hoje em dia eu trabalho com Font-end
   - 🌱 Especialidade em Frameworks como React e NextJs
