@@ -1,7 +1,7 @@
 ## Olá eu sou Johnatan S Paixao - SirPantheon
 
   - 🔭 Hoje em dia eu trabalho com Font-end
-  - 🌱 Atualmente estudo Typescript, React e NextJs
+  - 🌱 Especialidade em Frameworks como React e NextJs
   - 💬 Contate me: johnatan.sousa@gmail.com
 
   <br />  
